@@ -2,7 +2,7 @@
     "editor.insertSpaces": true,
     "editor.renderWhitespace": "all",
     "editor.minimap.enabled": false,
-    
+
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -13,8 +13,10 @@
         "**/*.pyc": true,
         "**/.gitlab": true
     },
-  
+
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.colorCustomizations": {
         "tab.activeBackground": "#800",
-    },
+    }
 }
