@@ -2,6 +2,7 @@
     "editor.insertSpaces": true,
     "editor.renderWhitespace": "all",
     "editor.minimap.enabled": false,
+    "editor.tabSize": 4,
 
     "files.exclude": {
         "**/.git": true,
