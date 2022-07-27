@@ -1,23 +1,29 @@
 {
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#800"
+    },
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
     "editor.insertSpaces": true,
-    "editor.renderWhitespace": "all",
     "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
     "editor.tabSize": 4,
 
     "files.exclude": {
         "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "**/*.pyc": true,
+        "**/.envs": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
         "**/.gitlab": true
     },
 
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorCustomizations": {
-        "tab.activeBackground": "#800",
-    }
+    "terminal.integrated.defaultProfile.linux": "zsh"
 }
