@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "batisteo.vscode-django",
+        "eamodio.gitlens",
+        "rioj7.vscode-behave",
+        "alexkrechik.cucumberautocomplete",
+        "EditorConfig.EditorConfig",
+        "2gua.rainbow-brackets",
+        "manamimebom.cucumber-support"
+    ]
+}
